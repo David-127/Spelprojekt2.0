@@ -1,0 +1,88 @@
+
+body{
+    color:greenyellow;
+    padding: 0%;
+    margin: 0%;
+}
+
+.rad1{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad2{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad3{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad4{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad5{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad6{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad7{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad8{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad9{
+    display: flex;
+    flex-direction: row;
+}
+
+.rad10{
+    display: flex;
+    flex-direction: row;
+}
+
+.brickasvart{
+    border-radius: 50%;
+    background-color:#292e2d;
+    width: 70px;
+    height: 70px;
+}
+
+.brickaröd{
+    border-radius: 50%;
+    background-color:red;
+    width: 70px;
+    height: 70px;
+}
+
+
+
+.ruta-röd{
+    background-color: maroon;
+    width: 90px;
+    height: 90px;
+    border: 2px solid wheat;
+    display: flex;
+}
+
+.ruta-svart{
+    background-color:black;
+    width: 90px;
+    height: 90px;
+    border: 2px solid wheat;
+    display: flex;
+}
