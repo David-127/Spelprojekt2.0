@@ -64,12 +64,10 @@ body{
 
 .brickaröd{
     border-radius: 50%;
-    background-color:red;
+    background-color:indianred;
     width: 70px;
     height: 70px;
 }
-
-
 
 .ruta-röd{
     background-color: maroon;
@@ -77,6 +75,8 @@ body{
     height: 90px;
     border: 2px solid wheat;
     display: flex;
+    justify-content:center;
+    align-items: center;
 }
 
 .ruta-svart{
@@ -85,4 +85,12 @@ body{
     height: 90px;
     border: 2px solid wheat;
     display: flex;
+    justify-content:center;
+    align-items: center;
 }
+
+.valbar{
+    z-index: 1;
+      background-color: green; 
+    }
+    
